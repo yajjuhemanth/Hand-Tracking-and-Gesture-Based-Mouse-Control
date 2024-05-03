@@ -16,7 +16,7 @@ You can install the required libraries via pip:
 
 
 pip install opencv-python mediapipe numpy pyautogui
-#Usage
+**#Usage**
 Clone this repository to your local machine.
 Navigate to the directory containing the script.
 Run the script using the following command:
@@ -26,7 +26,7 @@ Position your hand in front of the camera, and the script will track its movemen
 Move your index finger to control the mouse cursor.
 Touch your thumb and index finger to perform a click.
 
-#Configuration
+**#Configuration**
 You can adjust the following parameters in the script:
 
 smoothing_factor: Controls the smoothness of mouse movement. Adjust for smoother or more responsive movement.
