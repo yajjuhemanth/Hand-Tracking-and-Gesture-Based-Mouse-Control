@@ -34,4 +34,4 @@ click_threshold: Distance threshold for thumb and index finger to be considered 
 click_debounce_time: Debounce time in seconds to prevent multiple clicks for a single gesture.
 
 
-#Feel free to modify and expand upon this README as needed!
+Feel free to modify and expand upon this README as needed!
